@@ -1,3 +1,4 @@
-# Emotion_Detection_CNN
-
-Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+# Nerve Check
+### 24 Hour Hackathon Product
+Rebuilding it...
+# Own Notebook not uploaded
